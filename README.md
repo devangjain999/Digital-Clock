@@ -13,9 +13,7 @@ Responsive design with a gradient background.
 HTML: Used for structuring the web page.
 CSS: Styled the clock and applied the glowing effect.
 JavaScript: Dynamically updates the time and handles the AM/PM logic.
-# How to Use
-Clone this repository to your local machine using git clone https://github.com/devangjain999/Digital-Clock/tree/master
-Open the index.html file in your web browser to view the digital clock.
+
 # Code Explanation
 index.html: Contains the structure of the web page, including the container for the clock.
 style.css: Defines the styles for the clock, including the gradient background and glowing effect.
